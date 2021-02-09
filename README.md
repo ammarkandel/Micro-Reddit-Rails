@@ -4,7 +4,7 @@ Built models and migration for a Micro-Reddit web application using Ruby on Rail
 
 ## About
 
-This project is a recreation of the Reddit application, but on the model side.
+This project is a recreation of the Reddit application but on the model side.
 It focuses on creating Models with validations and associations on rails using Active Record.
 
 In this project we:
