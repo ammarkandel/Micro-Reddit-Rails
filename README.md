@@ -1,24 +1,54 @@
-# README
+# Micro-Reddit-Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built models and migration for a Micro-Reddit web application using Ruby on Rails.
 
-Things you may want to cover:
+## About
 
-* Ruby version
+This project is a recreation of the Reddit application, but on the model side.
+It focuses on creating Models with validations and associations on rails using Active Record.
 
-* System dependencies
+In this project we:
 
-* Configuration
+- Made a model for users.
+- Made a model for posts.
+- Made a model for comments.
+- Made validations for their inputs.
+- Made associations between the user, the post and the comment model.
 
-* Database creation
+## Usage
 
-* Database initialization
+- Clone the repo "https://github.com/ammarkandel/Micro-Reddit-Rails.git"
+- Write "rails c".
+- Start adding users, posts and comments.
 
-* How to run the test suite
+## Technologies
 
-* Services (job queues, cache servers, search engines, etc.)
+- Ruby
+- Rails
+- SQLite3
 
-* Deployment instructions
+## Authors
 
-* ...
+👤 **Ammar El refay Kandel**
+
+- GitHub: [ammarkandel](https://github.com/ammarkandel)
+- Twitter: [@AmmarQandel](https://twitter.com/AmmarQandel)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ammar-kandel-7b4100193/)
+
+👤 **José Oever González Hernández**
+
+- GitHub: [@NoTengoBattery](https://github.com/NoTengoBattery/)
+- Twitter: [@NoTengoBattery](https://twitter.com/NoTengoBattery)
+- LinkedIn: [@notengobattery](https://www.linkedin.com/in/notengobattery/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
